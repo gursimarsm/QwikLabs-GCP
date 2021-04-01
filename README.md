@@ -15,4 +15,5 @@ This repository consists of solutions for various labs mainly consisting of the 
 🟢 Track 3: Big Data & ML : 10 quests & 4 skill badges in the Big Data & Machine Learning track.
 <br>
 
-Check my qwiklabs profile: https://www.qwiklabs.com/public_profiles/02cbf13b-e4d5-4fb3-b163-0a7484e025a7
+Check out my qwiklabs profile: https://www.qwiklabs.com/public_profiles/02cbf13b-e4d5-4fb3-b163-0a7484e025a7
+Check out my blog on medium for more information about GoogleCloudReady Facilitator program: https://gursimar27.medium.com/googlecloudready-facilitator-program-41ce1068a429
